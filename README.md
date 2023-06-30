@@ -34,7 +34,7 @@ For testing, you can use an API client like Insomnia.<br>
 
 ```
 GET /users
-GET /users?name=nameExample&email=email-example@email.com``
+GET /users?name=nameExample&email=email-example@email.com
 ```
 
 <br>
@@ -44,7 +44,7 @@ GET /users?name=nameExample&email=email-example@email.com``
 ```
 POST /users
 {
-        "name": "Leandro"
+        "name": "Leandro",
         "email": "leandro@email.com
 }
 
