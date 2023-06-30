@@ -45,7 +45,7 @@ GET /users?name=nameExample&email=email-example@email.com
 POST /users
 {
         "name": "Leandro",
-        "email": "leandro@email.com
+        "email": "leandro@email.com"
 }
 
 ```
