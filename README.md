@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>SIMPLE NODE.JS API WITHOUT FRAMEWORK</h1>
+    <h1>PURE NODE.JS API (WITHOUT FRAMEWORK)</h1>
   
   [![Node.js Version](https://img.shields.io/badge/Node.js-%3E=18-brightgreen)](https://nodejs.org/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,9 @@
 
 ## 📋 About
 
-A simple API of users (CRUD), built using Node.js without any framework. The API allows to create, update, delete, and retrieve data using filters. The repository also inclues some code files about streams, which Node is known for being very good at.
+User API (CRUD) built using Node.js without any framework, with the goal of learning and demonstrating how Node works under the hood, focusing on its internal workings.
+
+The API allows to create, update, delete, and retrieve data using filters. The repository also inclues some code files about Streams, which Node is known for being very good at.
 
 ## 🌐 Technologies
 
