@@ -7,9 +7,9 @@
 
 ## 📋 About
 
-User API (CRUD) built using Node.js without any framework, with the goal of learning and demonstrating how Node works under the hood, focusing on its internal workings.
+User API built using Node.js without any framework, focused on exploring how Node works under the hood and how core HTTP concepts are implemented from scratch.
 
-The API allows to create, update, delete, and retrieve data using filters. The repository also inclues some code files about Streams, which Node is known for being very good at.
+The API supports creating, updating, deleting, and retrieving users with basic filtering. The repository also includes experiments with Node.js Streams to explore performance and data handling.
 
 ## 🌐 Technologies
 
@@ -77,3 +77,7 @@ DELETE /users/id
 ## 📃 License
 
 Project under MIT license.
+<hr>
+</br>
+
+> This project was developed as part of a Node.js learning track.
